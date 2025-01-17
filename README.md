@@ -1,2 +1,2 @@
 # ObjectLocalization-State-Estimator
-The aim of this research project is to explore dynamic localization and state estimation of an object tracked by a camera. 
+The aim of this research project is to explore dynamic localization and state estimation of an object tracked by a camera. The Dynamic Object Localization is the estimation of an object's state variables using real-time data obtained from a sensor system such as a camera. The state estimation is the estimation of the current state of the system. Both Kalman Filter and Adaptive Kalman Filter, which are mathematical algorithms, are used to accurately estimate the current state of the system. 
